@@ -16,7 +16,7 @@
 				"<!(node -e \"require('nan')\")",
 				"build_pcre2/include/",
 				"deps/jpcre2/src/",
-        "/usr/include/c++/v1"
+				"/usr/include/c++/v1/"
 			],
 			"libraries": [ "../build_pcre2/lib/libpcre2-8.a" ],
 			'conditions': [
